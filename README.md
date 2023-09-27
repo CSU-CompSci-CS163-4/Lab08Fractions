@@ -1,7 +1,6 @@
 # Lab08Fractions
 This lab will focus on constructors, substrings, and arithmetic operators being used on two different objects: `ProperFraction` and `ImproperFraction`
 
-For ease of access, here is the [javadoc](https://github.com/CSU-CompSci-CS163-4/Lab08CoordinateConverter) <- update this link once it exists
 
 ## Step 1: Examination
 Start by taking a look at all three files. Although you will not be editing `FractionMain.java`, it will be useful to read through it and understand how it works. Once you have your other files written, `FractionMain.java` will allow you to test your files through your IDE's terminal.
