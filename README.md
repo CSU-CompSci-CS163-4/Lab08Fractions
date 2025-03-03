@@ -13,8 +13,8 @@ Start by writing the constructors in both files and working your way down each f
 ## Step 3: Testing
 Once you have completed the methods, make use of the `FractionMain.java` file. Run your program and test out different fractions. Do your fractions properly simplify? Do your fractions properly convert between fraction types? Do your fractions follow the instructions in the javadoc of what to do if the denominator is 0? Test it out using `FractionMain.java` before you turn it in.
 
-## Step 4: Turning in to zyBooks
-If you have reached this step, you have completed each method and verified that they function correctly. Congratulations! Make sure to turn your files in through zyBooks!
+## Step 4: Turning in to Canvas
+If you have reached this step, you have completed each method and verified that they function correctly. Congratulations! Zip all the active files into a zip file and submit them to the assinment on canvas
 
 # Additional Information
 
