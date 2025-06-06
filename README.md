@@ -1,6 +1,7 @@
 # Lab08Fractions
 This lab will focus on constructors, substrings, and arithmetic operators being used on two different objects: `ProperFraction` and `ImproperFraction`
 
+Javadoc can be found [here](https://csu-compsci-cs163-4.github.io/Lab08Fractions/package-summary.html)
 
 ## Step 1: Examination
 Start by taking a look at all three files. Although you will not be editing `FractionMain.java`, it will be useful to read through it and understand how it works. Once you have your other files written, `FractionMain.java` will allow you to test your files through your IDE's terminal.
